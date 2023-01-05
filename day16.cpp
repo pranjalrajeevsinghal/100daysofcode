@@ -1,4 +1,4 @@
-// Qlink-> https://leetcode.com/problems/largest-number/description/
+// Qlink-> https://leetcode.com/problems/smallest-value-of-the-rearranged-number/description/
 //Code-
 
 long long smallestNumber(long long num) {
